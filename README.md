@@ -1,0 +1,2 @@
+# splunkIndexerConfigs
+Indexer specific configurations
